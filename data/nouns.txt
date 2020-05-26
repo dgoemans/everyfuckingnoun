@@ -2083,7 +2083,6 @@ ambience
 ambiguities
 ambiguity
 ambiguousness
-ambisexual
 ambit
 ambition
 ambitions
@@ -4039,7 +4038,6 @@ ascus
 aseity
 asepsis
 asepticism
-asexuality
 ash
 ash-key
 ash-keys
@@ -7078,9 +7076,6 @@ bisections
 bisector
 bisectors
 bises
-bisexual
-bisexuality
-bisexuals
 bish
 bishes
 bishop
@@ -7223,7 +7218,6 @@ blackness
 blacknesses
 blackout
 blackouts
-blacks
 blacksmith
 blacksmiths
 blackthorn
@@ -30315,8 +30309,6 @@ gay
 gayal
 gayals
 gayety
-gayness
-gays
 gazania
 gazanias
 gaze
@@ -35052,11 +35044,6 @@ homoplasies
 homoplasy
 homopolarity
 homopteran
-homos
-homosexual
-homosexualism
-homosexuality
-homosexuals
 homotaxis
 homothallism
 homotype
@@ -38453,7 +38440,6 @@ intersection
 intersections
 intersex
 intersexes
-intersexuality
 interspace
 interspaces
 interspersal
@@ -41956,9 +41942,6 @@ leptosome
 leptosomes
 leptospirosis
 leptotene
-lesbian
-lesbianism
-lesbians
 lese-majesty
 lesion
 lesions
@@ -58959,10 +58942,7 @@ queening
 queenings
 queenliness
 queens
-queer
 queer-bashing
-queerness
-queers
 queller
 quellers
 quelling
@@ -75921,9 +75901,6 @@ transposers
 transposes
 transposition
 transpositions
-transsexual
-transsexualism
-transsexuals
 transshipment
 transshipments
 transubstantiation
@@ -77808,7 +77785,6 @@ unique
 uniqueness
 uniques
 unis
-unisexuality
 unison
 unisons
 unit
@@ -80770,7 +80746,6 @@ whiteners
 whiteness
 whitening
 whitenings
-whites
 whitesmith
 whitesmiths
 whitethorn
